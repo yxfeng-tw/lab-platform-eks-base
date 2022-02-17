@@ -5,8 +5,8 @@ orbs:
   terraform: circleci/terraform@3.0.1
   # can override kubectl, awspec versions as necessary
   kubernetes: circleci/kubernetes@1.3.0
-  # used for github-release-notes feature
-  executor-tools: twdps/executor-tools@0.2.0
+  # # used for github-release-notes feature
+  # executor-tools: twdps/executor-tools@0.2.0
 
 # ==== global pipeline parameters
 
